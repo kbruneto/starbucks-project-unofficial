@@ -8,9 +8,7 @@
 Technologies:
 <br>
 - Html:5
-- <br>
 - CSS
-- <br>
 - JavaScript
 
 ![image](https://github.com/kbruneto/starbucks-project-unofficial/assets/157076147/8edb249c-29a8-4800-9a0d-c4741bebaaed)
