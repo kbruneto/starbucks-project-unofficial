@@ -1,8 +1,8 @@
-<h1 text-align="center">Studies</h1>
+<h1 align="center">Studies</h1>
 <br>
-<h2>Project carried out to improve my knowledge, not professionally, just for my study.</h2>
+<h2 align="center">Project carried out to improve my knowledge, not professionally, just for my study.</h2>
 <br>
-<h3>My idea is to create a menu in the future and add it to the project</h3>
+<h3 align="center">My idea is to create a menu in the future and add it to the project</h3>
 <br>
 Technologies:
 - Html:5
